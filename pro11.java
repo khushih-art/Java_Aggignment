@@ -4,7 +4,7 @@ public class program11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        try {
+        try { 
             System.out.print("Enter numerator: ");
             int num = sc.nextInt();
 
